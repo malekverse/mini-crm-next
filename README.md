@@ -23,37 +23,6 @@ A modern, responsive Customer Relationship Management (CRM) application built wi
 - **Form Handling**: React Hook Form
 - **State Management**: React built-in state (useState, useContext)
 
-## 📁 Project Structure
-
-\`\`\`
-mini-crm-next/
-├── app/
-│   ├── dashboard/
-│   │   ├── clients/
-│   │   │   └── [id]/
-│   │   │       └── page.tsx
-│   │   ├── add-client/
-│   │   │   └── page.tsx
-│   │   └── page.tsx
-│   ├── login/
-│   │   └── page.tsx
-│   ├── globals.css
-│   ├── layout.tsx
-│   └── page.tsx
-├── components/
-│   ├── layout/
-│   │   └── DashboardLayout.tsx
-│   └── ui/
-│       └── [shadcn components]
-├── data/
-│   └── clients.json
-├── types/
-│   └── client.ts
-├── utils/
-│   ├── formatters.ts
-│   └── validators.ts
-└── README.md
-\`\`\`
 
 ## 🏃‍♂️ Getting Started
 
