@@ -1,0 +1,524 @@
+[
+  {
+    "id": "1",
+    "firstName": "Youssef",
+    "lastName": "Ben Slimane",
+    "email": "youssef.benslimane@tunisia.tn",
+    "phone": "+216 20 123 456",
+    "createdAt": "2024-01-15T10:30:00Z",
+    "tags": ["VIP", "Enterprise"],
+    "activities": [
+      {
+        "id": "1",
+        "type": "contact",
+        "description": "Initial contact made",
+        "date": "2024-01-15T10:30:00Z"
+      },
+      {
+        "id": "2",
+        "type": "meeting",
+        "description": "Discovery meeting scheduled",
+        "date": "2024-01-16T14:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "firstName": "Ameni",
+    "lastName": "Mejri",
+    "email": "ameni.mejri@entreprise.tn",
+    "phone": "+216 29 456 789",
+    "createdAt": "2024-01-10T09:15:00Z",
+    "tags": ["Lead"],
+    "activities": [
+      {
+        "id": "3",
+        "type": "email",
+        "description": "Follow-up email sent",
+        "date": "2024-01-10T09:15:00Z"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "firstName": "Walid",
+    "lastName": "Gharbi",
+    "email": "walid.gharbi@tech.tn",
+    "phone": "+216 22 654 321",
+    "createdAt": "2024-01-08T16:45:00Z",
+    "tags": ["Tech", "Startup"],
+    "activities": [
+      {
+        "id": "4",
+        "type": "call",
+        "description": "Phone consultation completed",
+        "date": "2024-01-08T16:45:00Z"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "firstName": "Syrine",
+    "lastName": "Haddad",
+    "email": "syrine.haddad@marketing.tn",
+    "phone": "+216 24 987 654",
+    "createdAt": "2024-01-05T11:20:00Z",
+    "tags": ["Marketing", "SMB"],
+    "activities": [
+      {
+        "id": "5",
+        "type": "meeting",
+        "description": "Strategy meeting held",
+        "date": "2024-01-05T11:20:00Z"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "firstName": "Hichem",
+    "lastName": "Zouari",
+    "email": "hichem.zouari@finance.tn",
+    "phone": "+216 21 321 098",
+    "createdAt": "2024-01-03T13:10:00Z",
+    "tags": ["Finance", "Enterprise"],
+    "activities": [
+      {
+        "id": "6",
+        "type": "proposal",
+        "description": "Proposal submitted",
+        "date": "2024-01-03T13:10:00Z"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "firstName": "Ines",
+    "lastName": "Chaabane",
+    "email": "ines.chaabane@retail.tn",
+    "phone": "+216 27 789 012",
+    "createdAt": "2024-01-01T08:30:00Z",
+    "tags": ["Retail", "Lead"],
+    "activities": [
+      {
+        "id": "7",
+        "type": "contact",
+        "description": "First contact established",
+        "date": "2024-01-01T08:30:00Z"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "firstName": "Khalil",
+    "lastName": "Trabelsi",
+    "email": "khalil.trabelsi@itservices.tn",
+    "phone": "+216 26 345 678",
+    "createdAt": "2024-01-12T15:00:00Z",
+    "tags": ["IT", "Consulting"],
+    "activities": [
+      {
+        "id": "8",
+        "type": "call",
+        "description": "Introductory call completed",
+        "date": "2024-01-12T15:00:00Z"
+      },
+      {
+        "id": "9",
+        "type": "proposal",
+        "description": "Consulting proposal sent",
+        "date": "2024-01-13T10:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "firstName": "Fatma",
+    "lastName": "Ben Romdhane",
+    "email": "fatma.benromdhane@eduplus.tn",
+    "phone": "+216 23 112 334",
+    "createdAt": "2024-01-09T11:45:00Z",
+    "tags": ["Education", "SMB"],
+    "activities": [
+      {
+        "id": "10",
+        "type": "meeting",
+        "description": "Product demo held",
+        "date": "2024-01-09T11:45:00Z"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "firstName": "Oussama",
+    "lastName": "Maaloul",
+    "email": "oussama.maaloul@logistics.tn",
+    "phone": "+216 25 789 654",
+    "createdAt": "2024-01-06T10:20:00Z",
+    "tags": ["Logistics", "Enterprise"],
+    "activities": [
+      {
+        "id": "11",
+        "type": "email",
+        "description": "Partnership email sent",
+        "date": "2024-01-06T10:20:00Z"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "firstName": "Nour",
+    "lastName": "Rebai",
+    "email": "nour.rebai@creativestudio.tn",
+    "phone": "+216 28 900 321",
+    "createdAt": "2024-01-02T17:40:00Z",
+    "tags": ["Design", "Startup"],
+    "activities": [
+      {
+        "id": "12",
+        "type": "contact",
+        "description": "Intro email sent",
+        "date": "2024-01-02T17:40:00Z"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "firstName": "Rim",
+    "lastName": "Jaziri",
+    "email": "rim.jaziri@biopharma.tn",
+    "phone": "+216 21 456 987",
+    "createdAt": "2024-01-04T09:50:00Z",
+    "tags": ["Healthcare", "Enterprise"],
+    "activities": [
+      {
+        "id": "13",
+        "type": "meeting",
+        "description": "Pharma services meeting",
+        "date": "2024-01-04T09:50:00Z"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "firstName": "Tarek",
+    "lastName": "Mansouri",
+    "email": "tarek.mansouri@energy.tn",
+    "phone": "+216 29 765 432",
+    "createdAt": "2024-01-11T08:30:00Z",
+    "tags": ["Energy", "Lead"],
+    "activities": [
+      {
+        "id": "14",
+        "type": "call",
+        "description": "Solar solutions call",
+        "date": "2024-01-11T08:30:00Z"
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "firstName": "Salma",
+    "lastName": "Bouazizi",
+    "email": "salma.bouazizi@fashionhub.tn",
+    "phone": "+216 27 123 654",
+    "createdAt": "2024-01-07T12:10:00Z",
+    "tags": ["Retail", "Startup"],
+    "activities": [
+      {
+        "id": "15",
+        "type": "email",
+        "description": "Catalog emailed",
+        "date": "2024-01-07T12:10:00Z"
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "firstName": "Imed",
+    "lastName": "Saidi",
+    "email": "imed.saidi@legal.tn",
+    "phone": "+216 22 111 789",
+    "createdAt": "2024-01-14T13:25:00Z",
+    "tags": ["Legal", "SMB"],
+    "activities": [
+      {
+        "id": "16",
+        "type": "proposal",
+        "description": "Legal retainer proposal",
+        "date": "2024-01-14T13:25:00Z"
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "firstName": "Asma",
+    "lastName": "Khemiri",
+    "email": "asma.khemiri@education.tn",
+    "phone": "+216 26 222 333",
+    "createdAt": "2024-01-13T10:00:00Z",
+    "tags": ["Education", "Lead"],
+    "activities": [
+      {
+        "id": "17",
+        "type": "contact",
+        "description": "Initial inquiry received",
+        "date": "2024-01-13T10:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "firstName": "Mohamed Ali",
+    "lastName": "Jendoubi",
+    "email": "mohamedali.jendoubi@auto.tn",
+    "phone": "+216 23 555 666",
+    "createdAt": "2024-01-17T16:00:00Z",
+    "tags": ["Automotive", "Enterprise"],
+    "activities": [
+      {
+        "id": "18",
+        "type": "meeting",
+        "description": "Fleet management meeting",
+        "date": "2024-01-17T16:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "firstName": "Hiba",
+    "lastName": "Krichen",
+    "email": "hiba.krichen@events.tn",
+    "phone": "+216 28 444 777",
+    "createdAt": "2024-01-18T11:30:00Z",
+    "tags": ["Event Planning", "Startup"],
+    "activities": [
+      {
+        "id": "19",
+        "type": "call",
+        "description": "Planning call scheduled",
+        "date": "2024-01-18T11:30:00Z"
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "firstName": "Seif",
+    "lastName": "Mhiri",
+    "email": "seif.mhiri@engineering.tn",
+    "phone": "+216 21 000 321",
+    "createdAt": "2024-01-19T14:45:00Z",
+    "tags": ["Engineering", "Lead"],
+    "activities": [
+      {
+        "id": "20",
+        "type": "email",
+        "description": "Blueprints discussion email",
+        "date": "2024-01-19T14:45:00Z"
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "firstName": "Lina",
+    "lastName": "Ferchichi",
+    "email": "lina.ferchichi@media.tn",
+    "phone": "+216 24 333 900",
+    "createdAt": "2024-01-20T15:10:00Z",
+    "tags": ["Media", "SMB"],
+    "activities": [
+      {
+        "id": "21",
+        "type": "meeting",
+        "description": "Creative brief meeting",
+        "date": "2024-01-20T15:10:00Z"
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "firstName": "Adel",
+    "lastName": "Dakhlaoui",
+    "email": "adel.dakhlaoui@consult.tn",
+    "phone": "+216 29 111 222",
+    "createdAt": "2024-01-21T09:20:00Z",
+    "tags": ["Consulting", "Enterprise"],
+    "activities": [
+      {
+        "id": "22",
+        "type": "proposal",
+        "description": "Business strategy proposal",
+        "date": "2024-01-21T09:20:00Z"
+      }
+    ]
+  },
+  {
+    "id": "21",
+    "firstName": "Rania",
+    "lastName": "Sellami",
+    "email": "rania.sellami@beautypro.tn",
+    "phone": "+216 27 888 123",
+    "createdAt": "2024-01-22T10:15:00Z",
+    "tags": ["Beauty", "Lead"],
+    "activities": [
+      {
+        "id": "23",
+        "type": "contact",
+        "description": "Initial inquiry for salon software",
+        "date": "2024-01-22T10:15:00Z"
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "firstName": "Bilel",
+    "lastName": "Hajri",
+    "email": "bilel.hajri@agribusiness.tn",
+    "phone": "+216 23 777 456",
+    "createdAt": "2024-01-23T09:00:00Z",
+    "tags": ["Agriculture", "SMB"],
+    "activities": [
+      {
+        "id": "24",
+        "type": "meeting",
+        "description": "Product briefing on smart irrigation",
+        "date": "2024-01-23T09:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "firstName": "Leila",
+    "lastName": "Kallel",
+    "email": "leila.kallel@interior.tn",
+    "phone": "+216 22 555 778",
+    "createdAt": "2024-01-24T13:30:00Z",
+    "tags": ["Interior Design", "Startup"],
+    "activities": [
+      {
+        "id": "25",
+        "type": "email",
+        "description": "Sent portfolio and offer",
+        "date": "2024-01-24T13:30:00Z"
+      }
+    ]
+  },
+  {
+    "id": "24",
+    "firstName": "Karim",
+    "lastName": "Daghfous",
+    "email": "karim.daghfous@techbiz.tn",
+    "phone": "+216 20 600 999",
+    "createdAt": "2024-01-25T08:45:00Z",
+    "tags": ["Tech", "Lead"],
+    "activities": [
+      {
+        "id": "26",
+        "type": "call",
+        "description": "Intro call for SaaS solution",
+        "date": "2024-01-25T08:45:00Z"
+      }
+    ]
+  },
+  {
+    "id": "25",
+    "firstName": "Nesrine",
+    "lastName": "Guesmi",
+    "email": "nesrine.guesmi@foodhub.tn",
+    "phone": "+216 29 222 111",
+    "createdAt": "2024-01-26T11:10:00Z",
+    "tags": ["Food", "SMB"],
+    "activities": [
+      {
+        "id": "27",
+        "type": "meeting",
+        "description": "Scheduled tasting and pitch",
+        "date": "2024-01-26T11:10:00Z"
+      }
+    ]
+  },
+  {
+    "id": "26",
+    "firstName": "Omar",
+    "lastName": "Tlili",
+    "email": "omar.tlili@transport.tn",
+    "phone": "+216 21 678 345",
+    "createdAt": "2024-01-27T14:20:00Z",
+    "tags": ["Logistics", "Enterprise"],
+    "activities": [
+      {
+        "id": "28",
+        "type": "proposal",
+        "description": "Submitted transport optimization proposal",
+        "date": "2024-01-27T14:20:00Z"
+      }
+    ]
+  },
+  {
+    "id": "27",
+    "firstName": "Sarra",
+    "lastName": "Masmoudi",
+    "email": "sarra.masmoudi@hrsolutions.tn",
+    "phone": "+216 26 123 789",
+    "createdAt": "2024-01-28T16:05:00Z",
+    "tags": ["HR", "Consulting"],
+    "activities": [
+      {
+        "id": "29",
+        "type": "email",
+        "description": "HR platform walkthrough sent",
+        "date": "2024-01-28T16:05:00Z"
+      }
+    ]
+  },
+  {
+    "id": "28",
+    "firstName": "Nader",
+    "lastName": "Mahmoudi",
+    "email": "nader.mahmoudi@security.tn",
+    "phone": "+216 28 765 432",
+    "createdAt": "2024-01-29T10:40:00Z",
+    "tags": ["Security", "SMB"],
+    "activities": [
+      {
+        "id": "30",
+        "type": "call",
+        "description": "Security systems consultation call",
+        "date": "2024-01-29T10:40:00Z"
+      }
+    ]
+  },
+   {
+    "id": "29",
+    "firstName": "Sami",
+    "lastName": "Rzig",
+    "email": "sami.rzig@digitalvision.tn",
+    "phone": "+216 25 901 234",
+    "createdAt": "2024-01-30T13:15:00Z",
+    "tags": ["Digital", "Startup"],
+    "activities": [
+      {
+        "id": "31",
+        "type": "meeting",
+        "description": "Kick-off meeting for digital campaign",
+        "date": "2024-01-30T13:15:00Z"
+      }
+    ]
+  },
+  {
+    "id": "30",
+    "firstName": "Meriem",
+    "lastName": "Ammar",
+    "email": "meriem.ammar@wellness.tn",
+    "phone": "+216 27 456 321",
+    "createdAt": "2024-01-31T09:50:00Z",
+    "tags": ["Wellness", "Lead"],
+    "activities": [
+      {
+        "id": "32",
+        "type": "email",
+        "description": "Sent pricing for wellness retreat management",
+        "date": "2024-01-31T09:50:00Z"
+      }
+    ]
+  }
+]
